@@ -1,6 +1,6 @@
 ## Code is being organized and will be open-sourced soon
 # Toy Demo
-:heart: **If playback is choppy, please go to the *GIF* folder to view the files individually**
+:heart: **If the playback is lagging, please wait for a moment to buffer, or you can directly watch the original file in the *GIF* folder.**
 
 :dog2:
 
